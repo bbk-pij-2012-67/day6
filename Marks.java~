@@ -1,0 +1,15 @@
+public class Marks{
+
+public int numOfMarks = 0;
+public int numOfDistinctions = 0;
+public int numOfPasses = 0;
+public int numOfFails = 0;
+public int numOfInvalids = 0;
+
+public static void main(String[] args){
+
+Marks marks = new Marks();
+do{
+System.out.print()
+
+
